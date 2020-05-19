@@ -2,6 +2,7 @@
     "ModuleConfigurationsPath": "../../Modules",
     "ModuleConfigurations": [
         {
+            //My First change
             "Name": "DiagnosticStorageAccount",
             "ModuleDefinitionName": "StorageAccounts",
             "ResourceGroupName": "${Parameters.ModuleConfigurationParameters.DiagnosticStorageAccount.ResourceGroup}",
